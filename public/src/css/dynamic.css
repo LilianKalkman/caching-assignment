@@ -1,0 +1,13 @@
+.box {
+  margin: auto;
+  width: 150px;
+  height: 150px;
+  background-color: #521751;
+  color: white;
+  display: none;
+  border-radius: 10px;
+}
+
+.box.visible {
+  display: block;
+}
